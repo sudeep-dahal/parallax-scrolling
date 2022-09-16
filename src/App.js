@@ -9,7 +9,7 @@ import Test from "./components/Test";
 function App() {
   return (
     <div className="App">
-       {/* <Test/> */}
+       <Test/>
        <Imageone/>
         <Textbox/>
         {/* <Horizontalscroll/> */}
